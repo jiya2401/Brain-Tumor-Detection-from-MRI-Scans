@@ -12,7 +12,7 @@
 - Data augmentation: rotation, flip, zoom
 
 ## Results
-- Custom CNN: **72%** validation accuracy
+- Custom CNN: validation accuracy
 - EfficientNetB0: Improved after fine-tuning
 
 <img src="./accuracy_plots.png" alt="Model Performance" width="320"/>

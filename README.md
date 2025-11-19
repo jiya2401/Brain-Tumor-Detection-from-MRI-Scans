@@ -15,4 +15,4 @@
 - Custom CNN: validation accuracy
 - EfficientNetB0: Improved after fine-tuning
 
-<img src="./accuracy_plots.png" alt="Model Performance" width="320"/>
+<img src="./Analysis.png" alt="Model Performance" width="320"/>
